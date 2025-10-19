@@ -1,5 +1,3 @@
-# Concepts - may be altered
-
 ### 01/01/25
 
 sometimes i look at my AUs folder and wonder: why is it like this man  
