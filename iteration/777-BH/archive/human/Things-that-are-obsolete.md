@@ -1,5 +1,3 @@
-# Things that are obsolete
-
 <div data-block-id="to3VzEKQ" data-callout-type="info" class="callout"><h4 data-block-id="-FVm6A0d">INFO</h4><p data-block-id="0cbedIMe" data-spacing="double">The main plot pretty much happens in the 2nd half of the 22nd century.</p></div>
 
 ## Astrology charts

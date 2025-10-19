@@ -1,5 +1,3 @@
-# Trading Card details
-
 23/05/25
 
 ## BASIC INFO

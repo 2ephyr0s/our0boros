@@ -1,5 +1,3 @@
-# The Process of Becoming Human
-
 ## The outline 
 
 <div data-block-id="5ajQxFMb" data-callout-type="info" class="callout"><h4 data-block-id="VNUkPHaK">INFO</h4><p data-block-id="glNqr_-5" data-spacing="double">An outline of the process Vitus and Cassian took to become 'human'</p></div>

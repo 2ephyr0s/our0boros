@@ -1,5 +1,3 @@
-# Yellow-ringed Eyes
-
 ## INCIDENT REPORT
 
 REPORT NUMBER **`DF-7253`**

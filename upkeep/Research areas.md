@@ -1,4 +1,3 @@
-# Research areas
 
 <div data-block-id="RjeR4JJ-" data-callout-type="info" class="callout"><h4 data-block-id="cYl0v9lw"><span data-font-family="sans-serif" style="font-family: &quot;Inter&quot;,&quot;Noto Sans&quot;,Frutiger,Calibri,Myriad,Arial,Ubuntu,Helvetica,-apple-system,BlinkMacSystemFont,sans-serif">INFO</span></h4><p data-block-id="R9BIhx8A" data-spacing="double"><span data-font-family="sans-serif" style="font-family: &quot;Inter&quot;,&quot;Noto Sans&quot;,Frutiger,Calibri,Myriad,Arial,Ubuntu,Helvetica,-apple-system,BlinkMacSystemFont,sans-serif">List of avenues of philosophy that may be of interest</span></p></div>
 

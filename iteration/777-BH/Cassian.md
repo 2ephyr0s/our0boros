@@ -1,5 +1,3 @@
-# On Cassian 
-
 Cassian's philosophy of image as power didn't come out of the blue.
 
 He is curious and cautious, learning as much as he can to survive as a human. He learns to see, to walk, and to hear. He learns to speak and taste, and what to avoid to not let the body die. And then he pours his might to uncover more of the human body's deficiencies to avoid inconveniences. He learns that humans are fragile and need sleep. And while his soul still functions, his body refuses to cooperate when he lacks things biologically. he learns and modifies, and cuts down inefficiencies to become something more than human.

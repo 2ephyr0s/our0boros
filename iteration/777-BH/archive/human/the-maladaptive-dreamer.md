@@ -1,8 +1,4 @@
-# the maladaptive dreamer
-
 > *Isabella Leicester, 14, few days after her adoption*
-
-
 
 "The sunset is quite beautiful today, isn't it?" a voice chimes by her side.
 

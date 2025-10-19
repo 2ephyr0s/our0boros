@@ -1,5 +1,3 @@
-# Street naming conventions 
-
 Key idea:
 
 - `BUILDING # AVE-STREET, DISTRICT `
