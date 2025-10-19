@@ -1,0 +1,1 @@
+%% Will cover how entities project into lower dimensions and the byproduct %%
