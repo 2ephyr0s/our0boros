@@ -1,0 +1,32 @@
+lsi: false
+safe: true
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
+# remote_theme: no-style-please
+remote_theme: sighingnow/jekyll-gitbook
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+  
+# theme: jekyll-gitbook
+title: The Iterations of Creation and Destruction
+description: The Iterations of Creation and Destruction
+
+# gitbook theme
+toc:
+    enabled: true
+    h_min: 1
+    h_max: 3
+
+collections:
+  meta:
+    output: true
+    permalink: /:collection/:year-:month-:day-:title:output_ext
+  entities:
+    output: true
+    permalink: /:collection/:year-:month-:day-:title:output_ext
