@@ -1,4 +1,12 @@
 <!-- TODO: refine contents, move some to other sections, keep it brief -->
+## Disclaimer
+As a general rule, whatever things false in real life will apply in this reality, for we assume that they run on a completely new set of physics than we are used to.
+
+So please do not use this to aid your studies of any kind, especially if their based on the logic of our world.
+
+And fuck off, Keith, for expecting realism.
+
+Anyway, full disclaimer here: [[DISCLAIMER]]
 ## Overview
 
 let's call this dimension the Nth dimension, where N is some arbitrarily big number (that i have no idea what), that's for sure. the dimension itself is filled with various vectors the being can sense but not see. in my notes they're called "spark lines" inspired by the idea of threads of energy but that concept is not set in stone. so for now, assume that the Nth dimension contains various shapes and vectors that regularly transform into various states but never to the zero vector. who allows for the transformations? no one knows, but all entities of that dimension are to be shaped at will by the dimension they reside in. they live in the state of permanence in a sense they cannot be truly destroyed.

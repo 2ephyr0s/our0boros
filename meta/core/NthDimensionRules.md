@@ -6,9 +6,9 @@ category: Jekyll
 layout: post
 ---
 
-- given there always exists a real number greater than n, there must exist a coordinate space of R^m where m > n (in theory).
+- given there always exists a real number greater than $n$, there must exist a coordinate space of $\mathbb{R}^m$ where $m\in \mathbb{Z}, \; m>n$ (in theory).
 
-- an entity's abstract form destabilises as the nth dimension or the higher dimensional being slash world affects him: knowing forbidden truths, random effect of the realm, sudden instincts. this materialises in multiplying symbols and erratic control
+- an entity's abstract form destabilizes as the nth dimension or the higher dimensional being slash world affects him: knowing forbidden truths, random effect of the realm, sudden instincts. this materializes in multiplying symbols and erratic control
 
 - entities if different iterations cannot see each other in the nth dimension given the law necessitates that only entities of the current iteration may exist at a time
 
